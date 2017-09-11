@@ -11,3 +11,6 @@ class Index{
         echo "github 你好";
     }
 }
+
+
+$in = new Index();
